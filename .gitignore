@@ -1,6 +1,12 @@
+# Java-specific
 *.class
+*.jar
+
+# IDE-specific
 .idea/
 *.iml
+
+# Output folders
 out/
 bin/
 target/
