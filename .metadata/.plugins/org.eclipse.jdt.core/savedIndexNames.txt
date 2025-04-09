@@ -1,3 +1,0 @@
-INDEX VERSION 1.134+/Users/danielnguyen/Documents/COD/Fall2024/CIS2571-JAVA/FinalProject/BookProject/.metadata/.plugins/org.eclipse.jdt.core
-1743030378.index
-1865797976.index
